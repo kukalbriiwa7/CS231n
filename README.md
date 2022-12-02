@@ -1,2 +1,2 @@
-CS231n
+Ehanced version of 
 Stanford CS231n
